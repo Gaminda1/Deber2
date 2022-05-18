@@ -6,11 +6,17 @@ Nombre: Gabriel Alexander Minda Carrión             Fecha: 17/5/2022
 N R C: 7309
 
 1)	OBJETIVOS:
-•	Comprender correctamente la utilización de los diferentes tipos de notación científica 
-•	Determinar y analizar todos los componentes de un circuito electrónico
+
+	.-Comprender correctamente la utilización de los diferentes tipos de notación científica 
+	
+	.-Determinar y analizar todos los componentes de un circuito electrónico
+	
 2)	OBJETIVOS ESPECIFICOS:
-•	Aplicar correctamente las reglas de notación científica en los diferentes ejercicios 
-•	Construir adecuadamente un circuito eléctrico 
+
+	.-Aplicar correctamente las reglas de notación científica en los diferentes ejercicios 
+	
+	.-Construir adecuadamente un circuito eléctrico 
+	
 3)	MARCO TEÓRICO (RESUMEN)
 	
 	Capitulo # 1 (Resumenes) 
@@ -80,14 +86,20 @@ N R C: 7309
               ![image](https://user-images.githubusercontent.com/105458670/169161997-a0468cb7-2ef4-438a-babf-0370cd33a199.png)
               ![image](https://user-images.githubusercontent.com/105458670/169162032-46bd7195-2080-4597-81a5-fbdbc89275d5.png)
               ![image](https://user-images.githubusercontent.com/105458670/169162055-d405ef3b-6fa1-425d-8e02-340fa594aa44.png)
+	      
+	      
+.-VIDEO:
+.-https://www.youtube.com/watch?v=XxNpZNxRjrI
 
-CONCLUSIONES:
+
+
+.-CONCLUSIONES:
 .- En virtud de lo estudiado, ahora se sabe cómo realizar correctamente cálculos con notación científica e identificar este tipo de situaciones numéricas 
 
 
 .- De acuerdo con los objetivos planteados, se logró una correcta asimilación de todos los temas, por ende, se ha podido crear un correcto sistema de circuitos 
 
-BIBLIOGRAFÍA:
+.-BIBLIOGRAFÍA:
 
 .- Floyd, T. L. (s. f.). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
 
