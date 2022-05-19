@@ -27,7 +27,7 @@ N R C: 7309
 	![Azul Idea Principal Organizador Gráfico](https://user-images.githubusercontent.com/105458670/169156311-385c4cac-d7d7-4266-b350-9a7524a9e1ad.png)
 	![image](https://user-images.githubusercontent.com/105458670/169156375-8fdf7468-976d-4c44-b045-44ff0537c344.png)
        !
-        Capitulo # 2 (Resumenes)
+        .-Capitulo # 2 (Resumenes)
         !
        ![image](https://user-images.githubusercontent.com/105458670/169156707-2da67668-853b-440f-9aff-c84f945926a6.png)
        ![image](https://user-images.githubusercontent.com/105458670/169156724-5d979877-e34e-41a0-9f3f-f3b36ee6ae87.png)
@@ -53,7 +53,7 @@ N R C: 7309
        ![image](https://user-images.githubusercontent.com/105458670/169157485-5afd3ee7-fd9a-4f39-9392-00e85b36298a.png)
        ![image](https://user-images.githubusercontent.com/105458670/169157493-a30e44cc-3114-4cca-8478-d3e3e4341030.png)
        !      
-       4) EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
+       .- 4) EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
               ![image](https://user-images.githubusercontent.com/105458670/169158237-b55ac06e-1840-40a0-acba-d6046c9a323d.png)
               ![image](https://user-images.githubusercontent.com/105458670/169158265-c17ad091-8cf2-4795-8771-2feb8cc6bf4f.png)
               ![image](https://user-images.githubusercontent.com/105458670/169158285-2ec3b363-62dd-4a48-9496-573dec1d9e05.png)
